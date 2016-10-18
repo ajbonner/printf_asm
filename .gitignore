@@ -1,0 +1,3 @@
+*.o
+printf64
+printf32
